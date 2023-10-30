@@ -1,0 +1,776 @@
+﻿<!DOCTYPE html> <html lang="ru-RU"><head>
+
+
+
+
+
+
+	    <meta charset="UTF-8">
+    
+    
+    
+    	
+<!-- JM Twitter Cards by Julien Maury 10.1.0 -->
+
+
+
+<meta property="og:description" content="выращивание растений дома и в саду">
+<meta property="og:image" content="/wp-content/uploads/2018/02/tsvety-i-rasteniya.jpg">
+
+<!-- /JM Twitter Cards by Julien Maury 10.1.0 -->
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Error 404 - ЦВЕТЫ ДОМА</title>
+	<meta name="description" content="Домашние цветы и растения это не только рассаживание, выращивание и уход, но и возможность по-новому украсить окружающее пространство, добавить в него краски и эстетику, которую обязательно оценят окружающие вас люди. Но как это сделать?"/>
+	
+	
+	
+	
+	<link rel="next" href="/page/2"/>
+	
+	<!-- / Yoast SEO plugin. -->
+
+
+
+
+
+
+		
+		
+	<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="crp-style-rounded-thumbs-css" href="/wp-content/plugins/contextual-related-posts/css/default-style.css?ver=1.0" type="text/css" media="all"/>
+<style id="crp-style-rounded-thumbs-inline-css" type="text/css">
+
+.crp_related a {
+  width: 250px;
+  height: 180px;
+  text-decoration: none;
+}
+.crp_related img {
+  max-width: 250px;
+  margin: auto;
+}
+.crp_related .crp_title {
+  width: 100%;
+}
+                
+</style>
+<link rel="stylesheet" id="fancybox-for-wp-css" href="/wp-content/plugins/fancybox-for-wordpress/assets/css/fancybox.css?ver=1.3.4" type="text/css" media="all"/>
+<link rel="stylesheet" id="toc-screen-css" href="/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2002" type="text/css" media="all"/>
+<link rel="stylesheet" id="fontawesome-css" href="/wp-content/themes/education-hub/third-party/font-awesome/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all"/>
+<link crossorigin="anonymous" rel="stylesheet" id="education-hub-google-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A600%2C400%2C400italic%2C300%2C100%2C700%7CMerriweather+Sans%3A400%2C700&amp;ver=5.4.10" type="text/css" media="all"/>
+<link rel="stylesheet" id="education-hub-style-css" href="/wp-content/themes/education-hub/style.css?ver=1.9.6" type="text/css" media="all"/>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="/wp-content/plugins/fancybox-for-wordpress/assets/js/jquery.fancybox.js?ver=1.3.4"></script>
+
+ 
+
+
+<!-- Fancybox for WordPress v3.2.7 -->
+<style type="text/css">
+	.fancybox-slide--image .fancybox-content{background-color: #FFFFFF}div.fancybox-caption{display:none !important;}
+	
+	img.fancybox-image{border-width:10px;border-color:#FFFFFF;border-style:solid;height:auto;}
+	div.fancybox-bg{background-color:rgba(102,102,102,0.3);opacity:1 !important;}div.fancybox-content{border-color:#FFFFFF}
+	div#fancybox-title{background-color:#FFFFFF}
+	div.fancybox-content{background-color:#FFFFFF}
+	div#fancybox-title-inside{color:#333333}
+	
+	
+	
+	div.fancybox-caption p.caption-title{display:inline-block}
+	div.fancybox-caption p.caption-title{font-size:14px}
+	div.fancybox-caption p.caption-title{color:#333333}
+	div.fancybox-caption {color:#333333}div.fancybox-caption p.caption-title {background:#fff; width:auto;padding:10px 30px;}div.fancybox-content p.caption-title{color:#333333;margin: 0;padding: 5px 0;}
+</style><script type="text/javascript">
+	jQuery(function(){
+
+		jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+			var arr = jQuery("a[data-fancybox]");
+									jQuery.each(arr, function() {
+										var title = jQuery(this).children("img").attr("title");
+										 var caption = jQuery(this).next("figcaption").html();
+                                        if(caption && title){jQuery(this).attr("title",title+" " + caption)}else if(title){ jQuery(this).attr("title",title);}else if(caption){jQuery(this).attr("title",caption);}
+									});			}
+
+		// Supported file extensions
+
+                var thumbnails = jQuery("a:has(img)").not(".nolightbox").not('.envira-gallery-link').not('.ngg-simplelightbox').filter(function () {
+            return /\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href'))
+        });
+        
+
+		// Add data-type iframe for links that are not images or videos.
+        var iframeLinks = jQuery('.fancyboxforwp').filter( function() { return ! /\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href')) }).filter( function() { return ! /vimeo|youtube/i.test(jQuery(this).attr('href')) });
+        iframeLinks.attr({ "data-type" : "iframe" }).getTitle();
+
+				// Gallery All
+		thumbnails.addClass("fancyboxforwp").attr("data-fancybox","gallery").getTitle();
+        iframeLinks.attr({ "data-fancybox":"gallery" }).getTitle();
+
+		// Gallery type NONE
+		
+
+
+		// Call fancybox and apply it on any link with a rel atribute that starts with "fancybox", with the options set on the admin panel
+		jQuery("a.fancyboxforwp").fancyboxforwp({
+			loop: false,
+			smallBtn: true,
+			zoomOpacity: "auto",
+			animationEffect: "fade",
+			animationDuration: 500,
+			transitionEffect: "fade",
+			transitionDuration : "300",
+			overlayShow: true,
+			overlayOpacity: "0.3",
+			titleShow: true,
+			titlePosition: "inside",
+			keyboard: true,
+			showCloseButton: true,
+			arrows: true,
+			clickContent: false,
+            clickSlide: "close",
+            mobile:{
+                clickContent: function(current, event) {
+                    return current.type === "image" ? "toggleControls" : false;
+                },
+                clickSlide: function(current, event) {
+                    return current.type === "image" ? "close" : "close";
+                },
+            },
+			wheel: false,
+			toolbar: true,
+			preventCaptionOverlap: true,
+			onInit: function() { },			onDeactivate: function() { },			beforeClose: function() { },			afterShow: function() { },			afterClose: function() { },			caption : function( instance, item ) {var testing = jQuery(this).context.title;var caption = jQuery(this).data('caption') || '';if ( item.type === 'image' && testing.length ) {caption = (caption.length ? caption + '<br />' : '') + '<p class="caption-title">'+testing+'</p>' ;}return caption;},
+			afterLoad : function( instance, current ) {current.$content.append('<div class=\"fancybox-custom-caption inside-caption\" style=\" position: absolute;left:0;right:0;color:#000;margin:0 auto;bottom:0;text-align:center;background-color:#FFFFFF \">' + current.opts.caption + '</div>');},
+					});
+		
+	})
+</script>
+<!-- END Fancybox for WordPress -->
+<head><!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+</head><meta property="og:title" content="ЦВЕТЫ ДОМА"/><meta property="og:locale" content="ru_RU"/><meta property="og:type" content="website"/><meta property="og:image" content="/wp-content/uploads/2020/01/aloe-polosatoe.jpg"/><meta property="og:image:width" content="800"/><meta property="og:image:height" content="564"/><meta property="og:url" content="/"/><meta property="og:site_name" content="ЦВЕТЫ ДОМА"/><meta property="og:description" content="выращивание растений дома и в саду"/><style type="text/css">div#toc_container {width: 100%;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<!-- Нет версии AMPHTML для этого URL. --><link rel="icon" href="/wp-content/uploads/2017/01/cropped-logo-cvetydoma-32x32.png" sizes="32x32"/>
+<link rel="icon" href="/wp-content/uploads/2017/01/cropped-logo-cvetydoma-192x192.png" sizes="192x192"/>
+<link rel="apple-touch-icon" href="/wp-content/uploads/2017/01/cropped-logo-cvetydoma-180x180.png"/>
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2017/01/cropped-logo-cvetydoma-270x270.png"/>
+<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+
+
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+</head>
+
+<body class="home blog custom-background wp-custom-logo site-layout-fluid global-layout-three-columns">
+
+	    <div id="page" class="container hfeed site">
+    <a class="skip-link screen-reader-text" href="#content">Перейти к содержимому</a>
+    	<div id="tophead">
+		<div class="container">
+			<div id="quick-contact">
+									<ul>
+																			
+											</ul>
+											</div>
+
+			
+			
+		</div> <!-- .container -->
+	</div><!--  #tophead -->
+
+	<header id="masthead" class="site-header" role="banner"><div class="container">
+			    <div class="site-branding">
+
+		    <a href="/" class="custom-logo-link" rel="home"><img width="150" height="150" src="/wp-content/uploads/2019/03/tsvety-doma-logotip.png" class="custom-logo" alt="цветы дома logotip"/></a>
+										        <div id="site-identity">
+					            	              <h1 class="site-title"><a href="/" rel="home">ЦВЕТЫ ДОМА</a></h1>
+	            				
+					            <p class="site-description">выращивание растений дома и в саду</p>
+					        </div><!-- #site-identity -->
+			
+	    </div><!-- .site-branding -->
+
+	    	    		    <div class="search-section">
+		    	<form role="search" method="get" class="search-form" action="/">
+	      <label>
+	        <span class="screen-reader-text">Искать:</span>
+	        <input type="search" class="search-field" placeholder="Поиск…" value="" name="s" title="Искать:"/>
+	      </label>
+	      <input type="submit" class="search-submit" value="Поиск"/>
+	    </form>		    </div>
+	    
+        </div><!-- .container --></header><!-- #masthead -->    <div id="main-nav" class="clear-fix">
+        <div class="container">
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+          <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><i class="fa fa-bars"></i>
+			Меню</button>
+            <div class="wrap-menu-content">
+				<div class="menu-glavnoe-menyu-container"><ul id="primary-menu" class="menu"><li id="menu-item-106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106"><a href="/cvety-i-rasteniya">Цветы и растения</a></li>
+<li id="menu-item-311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-311"><a href="/klumby-i-cvetniki">Клумбы и цветники</a></li>
+<li id="menu-item-696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-696"><a href="/landshaftnyj-dizajn">Ландшафтный дизайн</a></li>
+<li id="menu-item-775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-775"><a href="/udobreniya-podkormki-stimulyatory-rosta">Удобрения</a></li>
+<li id="menu-item-608" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608"><a href="/vrediteli-i-bolezni">Вредители и болезни</a></li>
+<li id="menu-item-504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-504"><a href="/interesnoe">Интересное</a></li>
+</ul></div>            </div><!-- .menu-content -->
+        </nav><!-- #site-navigation -->
+       </div> <!-- .container -->
+    </div> <!-- #main-nav -->
+
+<div style="padding-top: 30px; padding-left: 120px;">
+<h3>Error 404</h3>
+Страница на сайте не найдена... <a href="/">перейти на главную</a>
+<br><br><br>
+</div>
+
+	<br><center>
+<!-- Yandex.RTB R-A-2308093-2 -->
+<div id="yandex_rtb_R-A-2308093-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-2308093-2',
+    blockId: 'R-A-2308093-2'
+  })
+})</script>
+</center>
+<div id="content" class="site-content"><div class="container"><div class="inner-wrapper">    
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+						
+				
+<article id="post-4432" class="post-4432 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-aloe tag-sukkulenty">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/aloe-striata.html" rel="bookmark">Алоэ Стриата (Coral Aloe): описание, уход в домашних условиях</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/aloe-striata.html" rel="bookmark"><time class="entry-date published updated" datetime="2020-01-03T11:28:00+03:00">03.01.2020</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/aloe-striata.html"><img width="150" height="150" src="/wp-content/uploads/2020/01/aloe-polosatoe-150x150.jpg" class="alignleft wp-post-image" alt="алоэ полосатое"/></a>
+					
+					<p>Алоэ полосатое или Коралловое Алоэ (Aloe striata) – вечнозеленый, многолетний суккулент из большого рода Aloe. Листья этого вида лишены колючек, характерных для большинства алоэ, и вместо этого имеют гладкий привлекательный розоватый край без каких-либо зубцов. Название «стриата» дано этому виду <a href="/cvety-i-rasteniya/aloe-striata.html" class="read-more">Читать дальше &#8230;</a></p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/aloe" rel="tag">Алоэ</a>, <a href="/tag/sukkulenty" rel="tag">Суккуленты</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4422" class="post-4422 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-aloe tag-sukkulenty">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/aloe-polyphylla.html" rel="bookmark">Алоэ Полифилла (Алоэ многолистное, спиральное алоэ): уход в домашних условиях</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/aloe-polyphylla.html" rel="bookmark"><time class="entry-date published updated" datetime="2019-12-01T12:52:08+03:00">01.12.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/aloe-polyphylla.html"><img width="150" height="150" src="/wp-content/uploads/2019/12/Aloe-mnogolistnoe-150x150.jpg" class="alignleft wp-post-image" alt="Алоэ многолистное"/></a>
+					
+					<p>Алоэ Полифилла (Aloe polyphylla) – редкое и одновременно красивейшее растение. Другие названия: алоэ многолистное, спиральное алоэ. Исчезающий вид. В естественной среде встречается только на восточных склонах в горах Малути в Лесото на высоте более 2000 метров над уровнем моря. Является <a href="/cvety-i-rasteniya/aloe-polyphylla.html" class="read-more">Читать дальше &#8230;</a></p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/aloe" rel="tag">Алоэ</a>, <a href="/tag/sukkulenty" rel="tag">Суккуленты</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4414" class="post-4414 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-aloe tag-sukkulenty">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/aloe-variegata.html" rel="bookmark">Алоэ пёстрое (Тировое алоэ, Алоэ пятнистое): описание, уход в домашних условиях)</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/aloe-variegata.html" rel="bookmark"><time class="entry-date published updated" datetime="2019-11-30T11:02:24+03:00">30.11.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/aloe-variegata.html"><img width="150" height="150" src="/wp-content/uploads/2019/11/pyatnistoe-aloe-150x150.jpg" class="alignleft wp-post-image" alt="пятнистое алоэ"/></a>
+					
+					<p>Алоэ пёстрое (Gonialoe variegata ранее имевшее название Aloe variegata) – многолетний травянистый суккулент из рода Gonialoe, семейства Asphodelaceae. Род Aloe оказался полифилетическим и был разделен на следующие виды родов: Aloe, Kumara, Aloiampelos, и Gonialoe. Название растение получило за пестроту своих <a href="/cvety-i-rasteniya/aloe-variegata.html" class="read-more">Читать дальше &#8230;</a></p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/aloe" rel="tag">Алоэ</a>, <a href="/tag/sukkulenty" rel="tag">Суккуленты</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4405" class="post-4405 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-aloe tag-sukkulenty">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/aloe-acutissima.html" rel="bookmark">Алоэ острейшее: описание и уход в домашних условиях</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/aloe-acutissima.html" rel="bookmark"><time class="entry-date published updated" datetime="2019-11-29T10:12:54+03:00">29.11.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/aloe-acutissima.html"><img width="150" height="150" src="/wp-content/uploads/2019/11/Aloe-acutissimaaloe-ostrejshee-150x150.jpg" class="alignleft wp-post-image" alt="Aloe acutissima (алоэ острейшее)"/></a>
+					
+					<p>Aloe acutissima (Голубое алоэ, Алоэ острейшее) – быстрорастущий кустарниковый суккулент, способный вырасти до метра в высоту, с многочисленными вертикальными тонкими стеблями, увенчанными розетками узких бледно-сине-зеленых с оттенками розово-пурпурного и красного цвета изогнутых листьев. </p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/aloe" rel="tag">Алоэ</a>, <a href="/tag/sukkulenty" rel="tag">Суккуленты</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4386" class="post-4386 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-aloe tag-aloe-vera tag-sukkulenty">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/aloe-vera-opisanie-vyrashhivanie-i-uhod.html" rel="bookmark">Алоэ Вера: описание, выращивание и уход в домашних условиях</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/aloe-vera-opisanie-vyrashhivanie-i-uhod.html" rel="bookmark"><time class="entry-date published" datetime="2019-11-24T16:13:26+03:00">24.11.2019</time><time class="updated" datetime="2019-11-29T09:53:45+03:00">29.11.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/aloe-vera-opisanie-vyrashhivanie-i-uhod.html"><img width="150" height="150" src="/wp-content/uploads/2019/11/aloe-vera-920346_1920-150x150.jpg" class="alignleft wp-post-image" alt="алоэ вера"/></a>
+					
+					<p>Алоэ вера (Aloe vera), Алоэ настоящее или А.барбаденсис ─ вечнозеленый многолетний травянистый суккулент из рода Алоэ, подсемейства Асфоделовые, семейства Асфоделовые. Вид выращивается по всему миру не только как садовое и комнатное растение, но и как сельскохозяйственная культура для использования в <a href="/cvety-i-rasteniya/aloe-vera-opisanie-vyrashhivanie-i-uhod.html" class="read-more">Читать дальше &#8230;</a></p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/aloe" rel="tag">Алоэ</a>, <a href="/tag/aloe-vera" rel="tag">Алоэ Вера</a>, <a href="/tag/sukkulenty" rel="tag">Суккуленты</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4379" class="post-4379 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-aloe tag-sukkulenty">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/aloe-marlothii.html" rel="bookmark">Алоэ Марлота: описание, уход в домашних условиях, лечебные свойства</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/aloe-marlothii.html" rel="bookmark"><time class="entry-date published" datetime="2019-11-15T16:36:02+03:00">15.11.2019</time><time class="updated" datetime="2019-11-29T09:54:09+03:00">29.11.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/aloe-marlothii.html"><img width="150" height="150" src="/wp-content/uploads/2019/11/Aloe-Marlota-v-estestvennyh-usloviyah-150x150.jpg" class="alignleft wp-post-image" alt="Алоэ Марлота в естественных условиях"/></a>
+					
+					<p>Алоэ Марлота (Горное Алоэ)– крупный вечнозеленый суккулент с древовидным стволом и плотной верхушечной розеткой мясистых серовато-зеленоватых шипастых листьев. </p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/aloe" rel="tag">Алоэ</a>, <a href="/tag/sukkulenty" rel="tag">Суккуленты</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4375" class="post-4375 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-gortenzii tag-gortenziya-metelchataya">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/cherenkovanie-metelchatoj-gortenzii.html" rel="bookmark">Черенкование метельчатой гортензии</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/cherenkovanie-metelchatoj-gortenzii.html" rel="bookmark"><time class="entry-date published updated" datetime="2019-11-12T10:36:25+03:00">12.11.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/cherenkovanie-metelchatoj-gortenzii.html"><img width="150" height="150" src="/wp-content/uploads/2019/11/gortenziya-metelchataya-150x150.jpg" class="alignleft wp-post-image" alt="Черенкование метельчатой гортензии"/></a>
+					
+					<p>Черенкование метельчатой гортензии – один из самых популярных и простых способов размножения цветка у садоводов. Приобрести именно те саженцы, которые нравятся, не всегда получается, деление куста делают через несколько лет, укоренение отводка &#8212; достаточно длительный процесс. </p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/gortenzii" rel="tag">Гортензии</a>, <a href="/tag/gortenziya-metelchataya" rel="tag">Гортензия метельчатая</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4368" class="post-4368 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-gortenzii tag-gortenziya-krupnolistnaya">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/cherenkovanie-krupnolistnoj-gortenzii-osenyu-i-zimoj-v-domashnih-usloviyah.html" rel="bookmark">Черенкование крупнолистной гортензии осенью и зимой в домашних условиях</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/cherenkovanie-krupnolistnoj-gortenzii-osenyu-i-zimoj-v-domashnih-usloviyah.html" rel="bookmark"><time class="entry-date published updated" datetime="2019-11-10T22:33:03+03:00">10.11.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/cherenkovanie-krupnolistnoj-gortenzii-osenyu-i-zimoj-v-domashnih-usloviyah.html"><img width="150" height="150" src="/wp-content/uploads/2019/11/CHerenkovanie-gortenzii-drevovidnoj-osenyu-i-zimoj-150x150.jpg" class="alignleft wp-post-image" alt="Черенкование гортензии древовидной осенью и зимой"/></a>
+					
+					<p>Среди садоводов бытует мнение, что для крупнолистовой гортензии лучший способ размножения – черенкование. Кроме весны и лета, ее также можно черенковать осенне-зимний период. </p><div style="float: right;">
+<!-- Yandex.RTB R-A-2308093-3 -->
+<div id="yandex_rtb_R-A-2308093-3"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-2308093-3',
+    blockId: 'R-A-2308093-3'
+  })
+})</script>
+</div>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/gortenzii" rel="tag">Гортензии</a>, <a href="/tag/gortenziya-krupnolistnaya" rel="tag">Гортензия крупнолистная</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4349" class="post-4349 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-nivyanik">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/leucanthemum-superbum-fiona-coghill.html" rel="bookmark">Нивяник махровый Фиона Гогхилл</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/leucanthemum-superbum-fiona-coghill.html" rel="bookmark"><time class="entry-date published" datetime="2019-06-07T11:35:35+03:00">07.06.2019</time><time class="updated" datetime="2019-06-07T11:37:36+03:00">07.06.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/leucanthemum-superbum-fiona-coghill.html"><img width="150" height="150" src="/wp-content/uploads/2019/06/Nivyanik-Fiona-Goghill-150x150.jpg" class="alignleft wp-post-image" alt="Нивяник Фиона Гогхилл"/></a>
+					
+					<p>Нивяник Фиона Гогхилл – махровый сорт садовой ромашки. Многолетнее растение, которое призвано всем своим видом и завидной устойчивостью к болезням и вредителям, стать настоящей «королевой» сада.</p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/nivyanik" rel="tag">Нивяник</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4341" class="post-4341 post type-post status-publish format-standard has-post-thumbnail hentry category-cvety-i-rasteniya tag-nivyanik">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="/cvety-i-rasteniya/nivyanik-majfild.html" rel="bookmark">Нивяник Майфилд: описание, уход, выращивание из семян</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="/cvety-i-rasteniya/nivyanik-majfild.html" rel="bookmark"><time class="entry-date published updated" datetime="2019-06-06T17:47:26+03:00">06.06.2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="/author/lecya">lecya</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+														<a href="/cvety-i-rasteniya/nivyanik-majfild.html"><img width="150" height="150" src="/wp-content/uploads/2019/06/nivyanik-majfild-150x150.jpg" class="alignleft wp-post-image" alt=""/></a>
+					
+					<p>Майфилд часто высаживают в рабатках и миксбордерах, где они замечательно сочетаются с дельфиниумом, васильками и колокольчиками. Стоит еще отметить то, что этот сорт подходит для срезки и может долго сохранять свою свежесть.</p>
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="/cvety-i-rasteniya" rel="category tag">Цветы и растения</a></span><span class="tags-links"><a href="/tag/nivyanik" rel="tag">Нивяник</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+			
+	<nav class="navigation posts-navigation" role="navigation" aria-label="Записи">
+		<h2 class="screen-reader-text">Навигация по записям</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="/page/2">Предыдущие записи</a></div></div>
+	</nav>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div id="sidebar-primary" class="widget-area" role="complementary">
+	    <aside id="secondary" class="sidebar widget-area" role="complementary">
+        		<aside id="recent-posts-10" class="widget widget_recent_entries">		<h2 class="widget-title">Свежие записи</h2>		<ul>
+											<li>
+					<a href="/cvety-i-rasteniya/aloe-striata.html">Алоэ Стриата (Coral Aloe): описание, уход в домашних условиях</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/aloe-polyphylla.html">Алоэ Полифилла (Алоэ многолистное, спиральное алоэ): уход в домашних условиях</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/aloe-variegata.html">Алоэ пёстрое (Тировое алоэ, Алоэ пятнистое): описание, уход в домашних условиях)</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/aloe-acutissima.html">Алоэ острейшее: описание и уход в домашних условиях</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/aloe-vera-opisanie-vyrashhivanie-i-uhod.html">Алоэ Вера: описание, выращивание и уход в домашних условиях</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/aloe-marlothii.html">Алоэ Марлота: описание, уход в домашних условиях, лечебные свойства</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/cherenkovanie-metelchatoj-gortenzii.html">Черенкование метельчатой гортензии</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/cherenkovanie-krupnolistnoj-gortenzii-osenyu-i-zimoj-v-domashnih-usloviyah.html">Черенкование крупнолистной гортензии осенью и зимой в домашних условиях</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/leucanthemum-superbum-fiona-coghill.html">Нивяник махровый Фиона Гогхилл</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/nivyanik-majfild.html">Нивяник Майфилд: описание, уход, выращивание из семян</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/leucanthemum-superbum-crazy-daisy.html">Нивяник Крейзи Дейзи: выращивание и уход</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/calathea-ornata-sanderiana.html">Калатея Сандериана Орната (Украшенная): описание, фото, уход</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/calathea-rufibarba.html">Калатея Руфибарба: уход в домашних условиях</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/calathea-zebrina.html">Калатея полосатая Зебрина: фото, описание, уход в домашних условиях</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/calathea-roseopicta-medallion.html">Калатея медальон или розеопикта: описание и уход</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/raznovidnosti-kalatei.html">Разновидности калатеи</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/nivyanik-mahrovyj.html">Нивяник махровый: выращивание, сорта</a>
+									</li>
+											<li>
+					<a href="/cvety-i-rasteniya/leucanthemum-superbum.html">Нивяник великолепный (Leucanthemum superbum)</a>
+									</li>
+					</ul>
+		</aside>    </aside><!-- .sidebar .widget-area -->
+</div><!-- #sidebar-primary -->
+<div id="sidebar-secondary" class="widget-area" role="complementary">
+	    <aside id="secondary" class="sidebar widget-area" role="complementary">
+        <aside id="tags_cloud-3" class="widget widget_tag_cloud"><h2 class="widget-title">Метки</h2><div class="tagcloud"><a href="/tag/abutilon" class="tag-cloud-link tag-link-65 tag-link-position-1" style="font-size: 20.173913043478pt;" aria-label="Абутилон (39 элементов)">Абутилон</a>
+<a href="/tag/akatsii" class="tag-cloud-link tag-link-87 tag-link-position-2" style="font-size: 11.652173913043pt;" aria-label="Акации (7 элементов)">Акации</a>
+<a href="/tag/aloe" class="tag-cloud-link tag-link-240 tag-link-position-3" style="font-size: 11.04347826087pt;" aria-label="Алоэ (6 элементов)">Алоэ</a>
+<a href="/tag/albitsii" class="tag-cloud-link tag-link-91 tag-link-position-4" style="font-size: 8pt;" aria-label="Альбиции (3 элемента)">Альбиции</a>
+<a href="/tag/belye-giatsinty" class="tag-cloud-link tag-link-51 tag-link-position-5" style="font-size: 8pt;" aria-label="Белые гиацинты (3 элемента)">Белые гиацинты</a>
+<a href="/tag/belye-hrizantemy" class="tag-cloud-link tag-link-60 tag-link-position-6" style="font-size: 12.260869565217pt;" aria-label="Белые хризантемы (8 элементов)">Белые хризантемы</a>
+<a href="/tag/bugenvilliya" class="tag-cloud-link tag-link-103 tag-link-position-7" style="font-size: 9.2173913043478pt;" aria-label="Бугенвиллия (4 элемента)">Бугенвиллия</a>
+<a href="/tag/giatsint" class="tag-cloud-link tag-link-46 tag-link-position-8" style="font-size: 21.026086956522pt;" aria-label="Гиацинт (46 элементов)">Гиацинт</a>
+<a href="/tag/giatsint-vostochnyj" class="tag-cloud-link tag-link-47 tag-link-position-9" style="font-size: 17.860869565217pt;" aria-label="Гиацинт восточный (25 элементов)">Гиацинт восточный</a>
+<a href="/tag/gortenzii" class="tag-cloud-link tag-link-40 tag-link-position-10" style="font-size: 10.191304347826pt;" aria-label="Гортензии (5 элементов)">Гортензии</a>
+<a href="/tag/gortenziya-drevovidnaya" class="tag-cloud-link tag-link-41 tag-link-position-11" style="font-size: 8pt;" aria-label="Гортензия древовидная (3 элемента)">Гортензия древовидная</a>
+<a href="/tag/dratsena-dushistaya" class="tag-cloud-link tag-link-94 tag-link-position-12" style="font-size: 13.84347826087pt;" aria-label="Драцена душистая (11 элементов)">Драцена душистая</a>
+<a href="/tag/dratseny" class="tag-cloud-link tag-link-93 tag-link-position-13" style="font-size: 13.84347826087pt;" aria-label="Драцены (11 элементов)">Драцены</a>
+<a href="/tag/zheltye-giatsinty" class="tag-cloud-link tag-link-53 tag-link-position-14" style="font-size: 8pt;" aria-label="Желтые гиацинты (3 элемента)">Желтые гиацинты</a>
+<a href="/tag/zheltye-hrizantemy" class="tag-cloud-link tag-link-64 tag-link-position-15" style="font-size: 11.04347826087pt;" aria-label="Желтые хризантемы (6 элементов)">Желтые хризантемы</a>
+<a href="/tag/zelenye-hrizantemy" class="tag-cloud-link tag-link-70 tag-link-position-16" style="font-size: 8pt;" aria-label="Зеленые хризантемы (3 элемента)">Зеленые хризантемы</a>
+<a href="/tag/kalatei" class="tag-cloud-link tag-link-158 tag-link-position-17" style="font-size: 15.304347826087pt;" aria-label="Калатеи (15 элементов)">Калатеи</a>
+<a href="/tag/kanatnik" class="tag-cloud-link tag-link-66 tag-link-position-18" style="font-size: 20.173913043478pt;" aria-label="Канатник (39 элементов)">Канатник</a>
+<a href="/tag/karagana-drevovidnaya" class="tag-cloud-link tag-link-74 tag-link-position-19" style="font-size: 9.2173913043478pt;" aria-label="Карагана древовидная (4 элемента)">Карагана древовидная</a>
+<a href="/tag/karagany" class="tag-cloud-link tag-link-73 tag-link-position-20" style="font-size: 11.652173913043pt;" aria-label="Караганы (7 элементов)">Караганы</a>
+<a href="/tag/kokos-kostyanka" class="tag-cloud-link tag-link-98 tag-link-position-21" style="font-size: 13.35652173913pt;" aria-label="Кокос (костянка) (10 элементов)">Кокос (костянка)</a>
+<a href="/tag/krasnye-giatsinty" class="tag-cloud-link tag-link-50 tag-link-position-22" style="font-size: 9.2173913043478pt;" aria-label="Красные гиацинты (4 элемента)">Красные гиацинты</a>
+<a href="/tag/lekarstvennye-rasteniya" class="tag-cloud-link tag-link-23 tag-link-position-23" style="font-size: 10.191304347826pt;" aria-label="Лекарственные растения (5 элементов)">Лекарственные растения</a>
+<a href="/tag/mineralnye-udobreniya" class="tag-cloud-link tag-link-36 tag-link-position-24" style="font-size: 11.04347826087pt;" aria-label="Минеральные удобрения (6 элементов)">Минеральные удобрения</a>
+<a href="/tag/mulcha" class="tag-cloud-link tag-link-99 tag-link-position-25" style="font-size: 10.191304347826pt;" aria-label="Мульча (5 элементов)">Мульча</a>
+<a href="/tag/nivyanik" class="tag-cloud-link tag-link-173 tag-link-position-26" style="font-size: 12.260869565217pt;" aria-label="Нивяник (8 элементов)">Нивяник</a>
+<a href="/tag/orhidei" class="tag-cloud-link tag-link-26 tag-link-position-27" style="font-size: 9.2173913043478pt;" aria-label="Орхидеи (4 элемента)">Орхидеи</a>
+<a href="/tag/razryhliteli-pochvy" class="tag-cloud-link tag-link-102 tag-link-position-28" style="font-size: 9.2173913043478pt;" aria-label="Разрыхлители почвы (4 элемента)">Разрыхлители почвы</a>
+<a href="/tag/rozovye-giatsinty" class="tag-cloud-link tag-link-49 tag-link-position-29" style="font-size: 11.652173913043pt;" aria-label="Розовые гиацинты (7 элементов)">Розовые гиацинты</a>
+<a href="/tag/svoimi-rukami" class="tag-cloud-link tag-link-9 tag-link-position-30" style="font-size: 9.2173913043478pt;" aria-label="Своими руками (4 элемента)">Своими руками</a>
+<a href="/tag/sinie-giatsinty" class="tag-cloud-link tag-link-52 tag-link-position-31" style="font-size: 11.04347826087pt;" aria-label="Синие гиацинты (6 элементов)">Синие гиацинты</a>
+<a href="/tag/sirenevye-giatsinty" class="tag-cloud-link tag-link-54 tag-link-position-32" style="font-size: 10.191304347826pt;" aria-label="Сиреневые гиацинты (5 элементов)">Сиреневые гиацинты</a>
+<a href="/tag/sornyaki" class="tag-cloud-link tag-link-14 tag-link-position-33" style="font-size: 8pt;" aria-label="Сорняки (3 элемента)">Сорняки</a>
+<a href="/tag/substraty" class="tag-cloud-link tag-link-97 tag-link-position-34" style="font-size: 13.35652173913pt;" aria-label="Субстраты (10 элементов)">Субстраты</a>
+<a href="/tag/sukkulenty" class="tag-cloud-link tag-link-30 tag-link-position-35" style="font-size: 12.869565217391pt;" aria-label="Суккуленты (9 элементов)">Суккуленты</a>
+<a href="/tag/udobreniya-soderzhashhie-azot" class="tag-cloud-link tag-link-38 tag-link-position-36" style="font-size: 9.2173913043478pt;" aria-label="Удобрения содержащие азот (4 элемента)">Удобрения содержащие азот</a>
+<a href="/tag/fikusy" class="tag-cloud-link tag-link-89 tag-link-position-37" style="font-size: 9.2173913043478pt;" aria-label="Фикусы (4 элемента)">Фикусы</a>
+<a href="/tag/hrizantemy" class="tag-cloud-link tag-link-56 tag-link-position-38" style="font-size: 22pt;" aria-label="Хризантемы (55 элементов)">Хризантемы</a>
+<a href="/tag/hrizantemy-indijskie" class="tag-cloud-link tag-link-68 tag-link-position-39" style="font-size: 9.2173913043478pt;" aria-label="Хризантемы индийские (4 элемента)">Хризантемы индийские</a>
+<a href="/tag/hrizantemy-korejskie" class="tag-cloud-link tag-link-69 tag-link-position-40" style="font-size: 10.191304347826pt;" aria-label="Хризантемы корейские (5 элементов)">Хризантемы корейские</a>
+<a href="/tag/hrizantemy-kustovye" class="tag-cloud-link tag-link-67 tag-link-position-41" style="font-size: 14.208695652174pt;" aria-label="Хризантемы кустовые (12 элементов)">Хризантемы кустовые</a>
+<a href="/tag/hrizantemy-multiflora" class="tag-cloud-link tag-link-57 tag-link-position-42" style="font-size: 9.2173913043478pt;" aria-label="Хризантемы мультифлора (4 элемента)">Хризантемы мультифлора</a>
+<a href="/tag/hrizantemy-odnogolovye" class="tag-cloud-link tag-link-62 tag-link-position-43" style="font-size: 11.04347826087pt;" aria-label="Хризантемы одноголовые (6 элементов)">Хризантемы одноголовые</a>
+<a href="/tag/hrizantemy-odnoletnie" class="tag-cloud-link tag-link-59 tag-link-position-44" style="font-size: 8pt;" aria-label="Хризантемы однолетние (3 элемента)">Хризантемы однолетние</a>
+<a href="/tag/hrizantemy-romashkovidnye" class="tag-cloud-link tag-link-63 tag-link-position-45" style="font-size: 13.84347826087pt;" aria-label="Хризантемы ромашковидные (11 элементов)">Хризантемы ромашковидные</a></div>
+</aside><aside id="tag_cloud-3" class="widget widget_tag_cloud">
+<!-- Yandex.RTB R-A-2308093-1 -->
+<div id="yandex_rtb_R-A-2308093-1"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-2308093-1',
+    blockId: 'R-A-2308093-1'
+  })
+})</script>
+</aside>
+<aside id="categories-12" class="widget widget_categories"><h2 class="widget-title">Рубрики</h2>		<ul>
+				<li class="cat-item cat-item-10"><a href="/vrediteli-i-bolezni" title="Неизбежные проблемы, с которыми сталкивается любой садовод или человек, культивирующий цветы у себя в квартире, это всевозможные факторы, мешающие растению полноценно развиваться. Для того что бы бороться с врагом, его нужно знать в лицо, а в наш век Интернета, бывает достаточно и точного названия. А узнать остальное помогут поисковики.
+Вредители
+Самый большой класс вредителей культурных растений – насекомые, но и звери и птицы не отстают от них по размеру причиняемого вреда. Основные вредители, несущим беду нашим растениям, это:
+
+ 	муравьи;
+ 	мухи;
+ 	бабочки;
+ 	жуки;
+ 	клещи;
+ 	нематоды;
+ 	грызуны;
+ 	птицы.
+
+Болезни
+Растения, как и люди подвержены болезням и способ передачи у них часто такой же, как у человека – от одного к другому. Кроме того, так же как и человек, любое растение способно заболеть из-за переохлаждения, недостатка минеральных веществ и обезвоживания. С большинством этих заболеваний можно бороться, но есть среди них и такие, которые губят наших зеленых друзей безвозвратно. В этом случае важно успеть предотвратить эпидемию: не дать возможности болезни перекинуться на соседние посадки.
+Если попытаться разбить все эти заболевания на группы, то получится, что растения болеют по четырем причинам:
+
+ 	Бактерии.
+ 	Вирусы.
+ 	Грибы.
+ 	Нарушения жизнедеятельности (погодные явления, недостаток питания, излишек или недостаток воды и прочее)
+
+Сорняки
+К отдельному классу вредителей можно отнести сорняки. Это такие растения, которые паразитируют за счет соседа, отбирая у них все самое питательное и «вкусное». К сорнякам относят дикорастущие растения или «дички» садовых, которые самозахватили участки, не предназначенные для них.">Вредители и болезни</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="/interesnoe" title="Жизнь не ограничивается только стенами квартиры или рамками приусадебного участка. В мире столько интересных и удивительных мест, о существовании которых, порой, мы просто не знаем. Конечно каждый «закоулок» мира не посетишь, но можно почитать и посмотреть фотографии или видео и эстетически насладится красотой нашего мира, одну из главных ролей в которой играют деревья, кустарники, цветы, водоросли, травы. А согласно последним научным исследованиям, зеленые обитатели не только украшают Землю, но и подобно людям обладают чувствами и интеллектом.
+Все мы немного цветоводы
+В советах по уходу за цветами и растениями нуждаются не только заядлые цветоводы. Даже в доме человека, не считающего себя таковым, скорее всего, найдется хотя бы одно горшечное растение, в пластиковом стаканчике с водой на кухонном подоконнике время от времени выпускает нежные стрелки зеленый лук, а на компьютерном столе рядом с монитором пристроился маленький симпатичный кактус. Ну, а если и этого нет, то наверняка, по праздничным и торжественным датам в квартире появляются цветочные букеты.
+
+В этой рубрике вы сможете найти советы о том, как правильно использовать в интерьере растения, как составить из них подходящий к определенному случаю букет или икебану. Поймете что такое флористика и как грамотно создать цветочную композицию. 
+
+А так же познакомитесь с удивительными рукотворными и созданными одной лишь природой уголками планеты, где можно вдоволь налюбоваться на всевозможных представителей флоры. Вы убедитесь, что даже в самой обычной травинке скрывается целая вселенная, а в союзе с природой человек может творить настоящие чудеса.
+
+Удивительные сведения о наших зеленых друзьях, советы о том, как грамотно за ними ухаживать, обзоры самых примечательных зеленых мест планеты ― все в рубрике «Интересное».">Интересное</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="/klumby-i-cvetniki" title="Создание цветника или клумбы можно смело назвать творчеством, потому что даже на первоначальном этапе проектирования, нужно уже ясно представлять, как они будут выглядеть в разные времена года. Спланировать гармоничный рост, цветение и увядание занятие трудное, но все же при достаточных знаниях и постоянной практике, вполне выполнимое.
+
+В этом интересном деле обязательно соблюдать определенные принципы, построенные на соотношении растительного оформления с единой концепцией места, где проводится озеленение, а тут возможно потребуется специалист по ландшафтному дизайну или личный кропотливый труд, основанный на самостоятельно полученных знаниях.
+Сделанное своими руками – всегда &quot;милее&quot;
+Так все-таки можно ли сделать клумбы и цветники своими руками, что бы они нравились и весной, и летом, и осенью? Конечно же – да! Для начала надо захотеть. Всегда можно сделать что-нибудь особенное из того, что уже ненужно, например старых покрышек или использованных бутылок. Или, если замыслы никак не связаны с огородными инсталляциями, а видятся масштабно и касаются всего огорода или приусадебного участка, пришла пора садится за &quot;стол&quot;. После появление замысла его переносят на бумагу, составляя первоначальный план-схему, в которой учитывается как расположение на месте, так и форма будущего цветника или клумбы. Обязательно при этом учитывается климатическая зона региона (она необходима для правильного выбора цветов, трав, кустарников и деревьев для нормального их роста и вегетации), а так же рельеф местности и особенности грунта.
+
+Цветники и клумбы создаются для украшения территории, будь то сад, парковая зона или участок земли на даче. Часто они разбиваются в зонах отдыха под открытым небом, перед входом в дом или вдоль дорожек и ограждений. Потому что цветник или клумба это в первую очередь эстетика, которая призвана улучшать нашу жизнь и добавлять в нее красок!">Клумбы и цветники</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="/landshaftnyj-dizajn" title="Ландшафтный дизайн выделяется в отдельную науку о создании гармонии на земельном участке, и это не только озеленение и благоустройство территории, но и настоящее искусство, включающее в себя три направления:
+
+ 	инженерная (архитектура, строительство, проектирование);
+ 	биологическое (ботаника и растениеводство);
+ 	историческое (при оформлении участка используются сведения из истории культуры и философии).
+
+
+Цели и задачи
+
+Цель ландшафтного дизайна в отличие от смежных и родственных ему дисциплин – садовничества и огородничества, не повышение урожайности, а создание на территории комфортной инфраструктуры на базе гармонии и красоты.
+
+Для тех, кто решил изменить свою жизнь на даче, ландшафтный дизайн станет подходящим, увлекательным занятием. При занятии ландшафтным дизайном большое значение имеет желание, так как эта работа творческая. Нужно научиться получать удовольствие от жизни!
+
+А как у них?
+
+Это занятие очень популярно среди американцев, так как большинство из них живут в отдельных домах. У американского ландшафтного дизайна есть ряд общих черт:
+
+ 	из-за небольших размеров домов все используемые компоненты дизайна имеют тоже небольшой размер;
+ 	вблизи входа; (передней части дома) растут деревца или кустики для защиты, после чего идет ровный газон;
+ 	проектирование участка предполагает, что придомовая территория, находящаяся за домом составляет около полутора сотки, и там хозяева обустраивают сад или газон или сажают несколько кустов. Обычно именно в этой зоне устраивают барбекю вечеринки;
+ 	особой популярностью в Америке пользуется китайский клен, у которого красные листья, чаще всего его сажают на самом участке.
+">Ландшафтный дизайн</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="/udobreniya-podkormki-stimulyatory-rosta" title="Удобрения, стимуляторы, подкормки ― это все вещества, призванные улучшить питание растений и полезные свойства почвы, и как, результат ― повысить урожайность. Их благотворное действие обусловлено тем, что в их состав входят дефицитные макро и микроэлементы, обязательные для нормальной жизнедеятельности растений.
+
+Общеизвестно, что факторы, влияющие на качество роста и развития всех представителей флоры, разделяют на две основные категории: земные и космические. На факторы из космоса, такие как солнечный свет и погодные условия мы не в состоянии оказать существенное влияние. А вот земные факторы (качество и количество поливов, и концентрацию питательных веществ) мы можем взять под свой контроль. И удобрения будут играть в нем ключевую роль.
+
+С помощью удобрений можно восполнить пробел в питании растений, который образовался в почве по тем или иным причинам: из-за истощения в результате неправильного севооборота, природной скудности почвы, присущей конкретному региону, чересчур интенсивной эксплуатации, эрозии, возникшей в результате засухи или наоборот обильных дождей.
+Разновидности удобрений
+Видов удобрений много. Их разделяют:
+
+ 	по происхождению (органическое и минеральное);
+ 	по характеру воздействия (напрямую и косвенно);
+ 	по методу внесения в почву (предпосевной, основной, подкормочный, поверхностный, внутренний);
+ 	по физическому состоянию (твердое, жидкое, полужидкое);
+ 	по способу подкормки (корневая, прикорневая).
+
+Каждая из этих групп включает десятки и сотни разновидностей. И здесь очень важно именно помочь растениям, а не навредить им, а для этого необходимо разбираться в том, в каких именно веществах оно нуждается и каким способом их нужно вносить в почву.
+Стимуляторы роста
+Отдельно несколько слов о стимуляторах, в связи с тем, что они сами по себе не являются источником полезных элементов, а служат в качестве ускорителей метаболизма у растений. Использование стимуляторов роста растений в сельском хозяйстве, садоводстве и комнатном цветоводстве с каждым годом увеличивается, поэтому стоит остановиться на этой теме поподробнее. Стимуляторы или, как их еще называют регуляторы роста растений, обеспечивают прирост урожайности и повышения качества производимой продукции и сохранения ее от прорастания при хранении.
+
+Основные области применения стимуляторов:
+
+ 	ускорение роста растений;
+ 	ускорение их укоренения при размножении;
+ 	замедление цветения, с целью предупреждения опадания плодов раньше времени;
+ 	уменьшение прорастания клубней, луковиц и корнеплодов при их хранении;
+ 	повышение иммунитета растений;
+ 	активизация их плодоношения;
+ 	усиление цветения и качества цветков в комнатном и садовом цветоводстве.
+
+
+Регуляторы являются биологически активными веществами и требуют повышенных мер осторожности как при работе с ними, так и в применяемой дозировке. Передозировка приводит к необратимым последствиям и часто к совершенно противоположному эффекту. При превышении рекомендуемой дозы, стимуляторы становятся антагонистами роста, действующими на физиологию растений угнетающе, замедляя все процессы их развития вплоть до гибели.
+
+Стимуляторы подразделяются на два основных вида:
+
+ 	Природные (фитогормоны).
+ 	Синтетические (синтезированные человеком).
+
+
+Использование стимуляторов в мире будет постепенно, но неуклонно возрастать. Поэтому необходимо знать о них как можно больше и уметь грамотно применять эти знания на практике.">Удобрения и подкормки</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="/floristika" title="Флористика  или Флористический дизайн ― популярная разновидность декоративно-прикладного искусства. Флористом каждый из нас был хотя бы несколько раз в жизни. Вряд ли найдется на свете хотя бы один человек старше пяти лет, которому не приходилось составлять букет из покупных, полевых или растущих в собственном саду цветов. 
+
+Конечно в действительности все немного сложнее. Составление букетов, панно, композиций, коллажей и многих других прекрасных вещей, из цветов, трав, листьев, плодов и различных других природных материалов ― занятие не только творческое и увлекательное, но и требующее  профессионального подхода.  А познать азы этой науки поможет наша рубрика.
+">Флористика</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="/cvety-i-rasteniya" title="Вряд ли на свете найдется большое количество людей не любящих цветы. Но их выращивание дело не совсем простое. Правильная посадка, полив, подкормка, обрезка, защита от болезней ― вот далеко не полный перечень умений, которые должен освоить начинающий цветовод. Мы расскажем вам, как выращивать цветы и декоративные растения в домашних условиях, о тонкостях ухода за ними в открытом грунте, поделимся интересными дизайнерскими флористическими идеями и опытом маститых цветоводов.">Цветы и растения</a>
+</li>
+		</ul>
+			</aside><aside id="custom_html-27" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+
+</div></aside>    </aside><!-- .sidebar .widget-area -->
+</div><!-- #sidebar-secondary -->
+
+
+</div><!-- .inner-wrapper --></div><!-- .container --></div><!-- #content -->
+	<div style="padding-top: 10px;" align="center">
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=lf1c123cf39409fd4141988e55a608f96ae35a9bce" type="text/javascript"></script> <script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script> 
+<br><br></div>
+<footer id="colophon" class="site-footer"><div class="container">    
+<div id="footer-navigation" class="menu-konfidentsialnost-container">
+<ul id="menu-konfidentsialnost" class="menu">
+<li id="menu-item-4048" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4048"><a href="/">ГЛАВНАЯ</a></li>
+<li id="menu-item-4047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4047"><a href="/privacy-policy">Политика конфиденциальности</a></li>
+</ul></div>
+<div class="copyright">&copy; 2023 «ЦВЕТЫ ДОМА» | Домашние цветы и растения это не только рассаживание, 
+выращивание и уход, но и возможность по-новому украсить окружающее пространство, 
+добавить в него краски и эстетику, которую обязательно оценят окружающие вас люди. Но как это сделать?</div>
+<noindex>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t17.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</noindex>
+</div></footer>
+</div>
+
+<script type="text/javascript" src="/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2002"></script>
+<script type="text/javascript" src="/wp-content/themes/education-hub/js/skip-link-focus-fix.min.js?ver=20130115"></script>
+<script type="text/javascript" src="/wp-content/themes/education-hub/third-party/cycle2/js/jquery.cycle2.min.js?ver=2.1.6"></script>
+<script type="text/javascript" src="/wp-content/themes/education-hub/js/custom.min.js?ver=1.0"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var EducationHubScreenReaderText = {"expand":"<span class=\"screen-reader-text\">\u0440\u0430\u0441\u043a\u0440\u044b\u0442\u044c \u0434\u043e\u0447\u0435\u0440\u043d\u0435\u0435 \u043c\u0435\u043d\u044e<\/span>","collapse":"<span class=\"screen-reader-text\">\u0441\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u0434\u043e\u0447\u0435\u0440\u043d\u0435\u0435 \u043c\u0435\u043d\u044e<\/span>"};
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="/wp-content/themes/education-hub/js/navigation.min.js?ver=20120206"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"sidebar-2","margin_top":10,"margin_bottom":300,"stop_id":"colophon","screen_max_width":1280,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["tag_cloud-3","categories-12","custom_html-27"]}];
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9"></script>
+
+</body>
+</html>
