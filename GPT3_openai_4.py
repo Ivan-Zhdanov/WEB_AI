@@ -27,7 +27,8 @@ def GPT3(query):
         # api = api_cheker()
 
         # API levinavi092@gmail.com 14$ добавил 10 к 5    14.92
-        api = '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'
+        # api = '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'
+        api = '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'
         openai.api_key = api
         openai.organization = 'org-RWwKRxAkZfRzT2jZXgKGZ2A5'
         print("Текущий АПИ = ", api)
@@ -36,7 +37,8 @@ def GPT3(query):
 
             responce = openai.ChatCompletion.create(
                 # model="gpt-3.5-turbo-16k-0613",
-                model="gpt-3.5-turbo",
+                model="gpt-3.5-turbo-16k",
+                # model="gpt-3.5-turbo",
                 # temperature=0,
                 # max_tokens=1024,
                 max_tokens=2500,
