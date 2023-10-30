@@ -24,21 +24,24 @@ def GPT3(query):
     flag = False
     while flag == False:
         # закрыл чтобы посмотреть как идет на официальном api
-        # api = api_cheker()
+        apiorg = api_cheker()
+        api = apiorg[0]
+        org = apiorg[1]
+        print(api)
+        print(org)
 
         # API levinavi092@gmail.com 14$ добавил 10 к 5    14.92
-        # api = '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'
-        api = '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'
+        # api = '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'
         openai.api_key = api
-        openai.organization = 'org-RWwKRxAkZfRzT2jZXgKGZ2A5'
+        openai.organization = org
+        # openai.organization = 'org-RWwKRxAkZfRzT2jZXgKGZ2A5'
         print("Текущий АПИ = ", api)
         try:
             print("КАКОЙ ЗАПРОС ________________________ ", query)
 
             responce = openai.ChatCompletion.create(
                 # model="gpt-3.5-turbo-16k-0613",
-                model="gpt-3.5-turbo-16k",
-                # model="gpt-3.5-turbo",
+                model="gpt-3.5-turbo",
                 # temperature=0,
                 # max_tokens=1024,
                 max_tokens=2500,
