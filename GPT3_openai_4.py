@@ -31,10 +31,10 @@ def GPT3(query):
         # print(org)
 
         # API levinavi092@gmail.com 14$ добавил 10 к 5    14.92
-        api = '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'
+        api = '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'
+        org = 'org-PAxr1I9jpenI9tI6mgGAhi7k'
         openai.api_key = api
-        # openai.organization = org
-        openai.organization = 'org-RWwKRxAkZfRzT2jZXgKGZ2A5'
+        openai.organization = org
         print("Текущий АПИ = ", api)
         try:
             print("КАКОЙ ЗАПРОС ________________________ ", query)
@@ -63,6 +63,9 @@ def GPT3(query):
 
 
 def Chat_converstaion(text2, query_type, i, h2, img):
+    if len(text2) > 11000:
+        text2 = text2[:11000]
+
     if query_type == 'text_2_pr':
         query2 = f"Перепиши с дополнениями \n {h2} {text2}"
         query = f'Выдели 3-4 ключевых идей из текста. Добавь новые уточняющие мысли и факты:"""{text2}"""'
@@ -70,10 +73,9 @@ def Chat_converstaion(text2, query_type, i, h2, img):
         query2 = f'Напиши в виде простых абзацев. Раскрой пункты более связанно с дополнениями:"""{text1}"""'
         text4 = GPT3(query2)
         # text6 = GPT3(text4)
-
         print('Исполнение Нейронки', text4)
-    if len(text2) > 11000:
-        text2 = text2[:11000]
+
+
     if query_type == 'text_1_pr':
         if len(text2) < 200:
             text2 = h2 + '' + text2
