@@ -72,12 +72,8 @@ def Chat_converstaion(text2, query_type, i, h2, img):
         # text6 = GPT3(text4)
 
         print('Исполнение Нейронки', text4)
-    if len(text2) > 10000:
-        letter_list = text2.split()
-        str = ''
-        for el in letter_list:
-            str = str + el
-        text2 = str
+    if len(text2) > 11000:
+        text2 = text2[:11000]
     if query_type == 'text_1_pr':
         if len(text2) < 200:
             text2 = h2 + '' + text2
